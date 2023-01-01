@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <meta charset="utf-8">
+            <title> Cadastro de Clientes </title>
+        </head>
+        <body>
+            <h1 align="center">Cadastro de Clientes</h1>
+            <form method="POST" action="cadastro.php">
+                <label> Nome: <input type="text" name="nome" size="60" placeholder="kleiton sulista de leviathan" required></label>
+                <p><label> Endereço: <input type="text" name="endereco" size="80" placeholder="rua everton auberto fechafo" required></label>
+                <label> Número: <input type="text" name="numero" size="10" placeholder="71" required></label>
+                <p><label> Cidade: <input type="text" name="cidade" size="60" placeholder="jurema" required></label>
+                <label> Estado: <select name="est"required>
+                    <option value="SP">São Paulo</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="BA">Bahia</option>
+                    <option value="AM">Amazonas</option>
+                    </select>
+                </label>
+                <p><label> Telefone <input type="tel" name="tel" placeholder="(xx)xxxxx-xxxx" size="20" required></label>
+                <p><label> Celular: <input type="tel" name="cel" placeholder="(xx)xxxxx-xxxx" size="20" required></label>
+                <p><label> E-mail: <input type="email" name="email" size="80" placeholder="aaaaaaa@aaaa.com" required></label>
+                <p><label> Data Nascimento: <input type="date" name="nascimento"  required></label>
+
+                    <p><input type="reset" value="Limpar">
+                    <input type="submit" value="Enviar">
+            </form>
+                <?php
+                    $nome=$_POST['nome'];
+                    $endereco=$_POST['endereco'];
+                    $numero=$_POST['numero'];
+                    $cidade=$_POST['cidade'];
+                    $estado=$_POST['est'];
+                    $telefone=$_POST['tel'];
+                    $celular=$_POST['cel'];
+                    $email=$_POST['email'];
+                    $data=$_POST['nascimento'];
+
+                    echo $nome.$endereco.$numero.$cidade.$estado.$telefone.$celular.$email.$data;
+                ?>
+        </body>
+    </html>

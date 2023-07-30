@@ -19,35 +19,58 @@ Siga as etapas abaixo para utilizar o projeto:
 Clone este repositório em sua máquina local usando o comando:
 
 bash
+
 Copy code
+
 git clone https://github.com/luanasantana80/HTML_PHP_01.git
+
 Navegue para o diretório do projeto:
 
+
 bash
+
 Copy code
+
 cd HTML_PHP_01
+
 Inicie um servidor local para visualizar o projeto em seu navegador:
 
+
 Copy code
+
 php -S localhost:8000
+
 Abra seu navegador e digite http://localhost:8000 na barra de endereços.
 
+
 Contribuição
+
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga os passos abaixo:
+
 
 Crie um branch com um nome descritivo para sua contribuição:
 
+
 css
+
 Copy code
+
 git checkout -b minha-contribuicao
+
 Faça as modificações ou adições necessárias.
+
 
 Commit suas mudanças com uma mensagem clara:
 
+
 sql
+
 Copy code
+
 git commit -m "Adicionar funcionalidade X"
+
 Envie o branch para o repositório remoto:
+
 
 perl
 Copy code

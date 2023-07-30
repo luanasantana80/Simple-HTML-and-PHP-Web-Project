@@ -1,9 +1,9 @@
-**Nome do Repositório: HTML_PHP_01**
+**Nome do Repositório: Simple HTML and PHP Web Project**
 
-
+![Sugestão de Imagem](https://exemplo.com/imagem.jpg)
 
 ## Descrição
-Bem-vindo ao repositório HTML_PHP_01! Aqui você encontrará um projeto simples para começar a explorar a combinação de HTML e PHP para o desenvolvimento web. Este projeto é ideal para iniciantes que desejam aprender como criar páginas web dinâmicas utilizando as linguagens HTML e PHP.
+Bem-vindo ao repositório Simple HTML and PHP Web Project! Neste projeto, você encontrará um exemplo simples de como combinar as linguagens HTML e PHP para criar uma página web dinâmica. É um projeto ideal para iniciantes que desejam aprender a criar formulários e processar dados usando PHP.
 
 ## Funcionalidades
 - **Página Inicial**: Uma página HTML estática com informações básicas.
@@ -15,12 +15,12 @@ Siga as etapas abaixo para utilizar o projeto:
 
 1. Clone este repositório em sua máquina local usando o comando:
    ```
-   git clone https://github.com/luanasantana80/HTML_PHP_01.git
+   git clone https://github.com/luanasantana80/Simple-HTML-and-PHP-Web-Project.git
    ```
 
 2. Navegue para o diretório do projeto:
    ```
-   cd HTML_PHP_01
+   cd Simple-HTML-and-PHP-Web-Project
    ```
 
 3. Inicie um servidor local para visualizar o projeto em seu navegador:
@@ -61,4 +61,4 @@ Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato
 - Email: luana.santana@fatecitapetininga.edu.br
 - Site: https://linktr.ee/LuanaCS
 
-Divirta-se explorando o projeto HTML_PHP_01 e aproveite para aprimorar suas habilidades em desenvolvimento web! 😊
+Divirta-se explorando o Simple HTML and PHP Web Project e aproveite para aprimorar suas habilidades em desenvolvimento web! 😊

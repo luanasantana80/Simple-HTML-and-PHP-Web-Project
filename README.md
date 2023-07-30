@@ -1,13 +1,19 @@
 Nome do Repositório: HTML_PHP_01
 
 Descrição
+
 Bem-vindo ao repositório HTML_PHP_01! Aqui você encontrará um projeto simples para começar a explorar a combinação de HTML e PHP para o desenvolvimento web. Este projeto é ideal para iniciantes que desejam aprender como criar páginas web dinâmicas utilizando as linguagens HTML e PHP.
 
 Funcionalidades
+
 Página Inicial: Uma página HTML estática com informações básicas.
+
 Formulário: Um formulário HTML para capturar dados do usuário.
+
 Processamento PHP: Um arquivo PHP para processar os dados enviados pelo formulário.
+
 Como Utilizar
+
 Siga as etapas abaixo para utilizar o projeto:
 
 Clone este repositório em sua máquina local usando o comando:

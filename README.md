@@ -1,9 +1,8 @@
 **Nome do Repositório: Simple HTML and PHP Web Project**
 
-![Sugestão de Imagem](https://exemplo.com/imagem.jpg)
 
 ## Descrição
-Bem-vindo ao repositório Simple HTML and PHP Web Project! Neste projeto, você encontrará um exemplo simples de como combinar as linguagens HTML e PHP para criar uma página web dinâmica. É um projeto ideal para iniciantes que desejam aprender a criar formulários e processar dados usando PHP.
+Bem-vindo ao repositório Simple HTML and PHP Web Project! Neste projeto, você encontrará um exemplo simples de como combinar as linguagens HTML e PHP para criar uma página web dinâmica.
 
 ## Funcionalidades
 - **Página Inicial**: Uma página HTML estática com informações básicas.
